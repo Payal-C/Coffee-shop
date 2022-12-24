@@ -378,7 +378,7 @@ section{
 }
 
 .products .box-container .box .iconbox a:hover{
-    background: var(--main-color);
+    background: var(--bg);
 }
 
 .products .box-container .box img{
@@ -413,7 +413,7 @@ padding: 1.5rem;
     color: #fff;
 }
 
-.products .box-container .box .iconbox a:hover{
+.products .box-container .box:hover{
     background: var(--main-color);
 }
 
