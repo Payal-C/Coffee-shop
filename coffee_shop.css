@@ -413,6 +413,10 @@ padding: 1.5rem;
     color: #fff;
 }
 
+.products .box-container .box:hover> *{
+    color:var(--black);
+}
+
 .review .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
