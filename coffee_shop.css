@@ -416,6 +416,7 @@ padding: 1.5rem;
 
 .products .box-container .box:hover> *{
     color:var(--black);
+      background:#fff;
 }
 
 .review .box-container{
